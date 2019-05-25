@@ -1,5 +1,10 @@
 # VHDL
-A collection of useful entities in VHDL, two of which are copied and modified from opencores.
+A collection of useful entities in VHDL. 
+
+```DQPSK``` and ```OFDM``` are copied and  modified from opencores. 
+
+Most of them are spin-offs from my projects, and simulated or implemented on FPGA. Some of them were written when I was a beginer of VHDL and not well designed. Also, I'm still learning digital design, so please don't hesitate to till me the problem in design or your better ideas:) 
+Thanks in advance.
 
 ## Entity lists
 - #### Binary_to_BCD: From 8 bits binary to 10bits BCD code. For examples and demo of the algorithm, please look at [this web](http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html).
