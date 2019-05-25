@@ -8,7 +8,7 @@ entity mod3 is		--pure combnitional
    port ( A          : in  std_logic_vector (7 downto 0);   -- Input A range(
           result 	   : out std_logic_vector (7 downto 0);   -- output (unsigned binary)
         );
-end ALU;
+end mod3;
 
 architecture behavioral of mod3 is
 
