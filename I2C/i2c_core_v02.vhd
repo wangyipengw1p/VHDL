@@ -109,8 +109,7 @@ BEGIN
   ready <= i_ready;
   mstr_slv <= i_mstr_slv;
   
-  arbitration:
-  process( sys_clk , sys_rst )
+  arbitration:process( sys_clk , sys_rst )
     begin
       if ( sys_rst = '1' ) then
         i_mstr_slv <= '1';
@@ -131,7 +130,7 @@ BEGIN
           i_mstr_slv <= '1'; --master
         end if;
       end if;
-    end process arbitration;
+    end process ;
     
   i_slv_sda_fall <= not i_sda_sam( 0 ) and i_sda_sam( 1 );
   i_slv_sda_rise <= i_sda_sam( 0 ) and not i_sda_sam( 1 );    
@@ -596,6 +595,6 @@ BEGIN
            when others => stm_slv <= slv_idle;
            end case;  
          end if;
-       end process i2c_slave;
+       end process ;
 END ARCHITECTURE arc;
 
