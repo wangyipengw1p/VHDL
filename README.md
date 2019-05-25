@@ -31,9 +31,12 @@ Some useful book and resources for learning VHDL.
 Some useful memo for writing tb.
 
 ## Useful links for learning VHDL
-- [Tutorial Examples for beginers](https://www.csee.umbc.edu/portal/help/VHDL/samples/samples.shtml).
+- [Tutorial Examples for beginers, UMBC](https://www.csee.umbc.edu/portal/help/VHDL/samples/samples.shtml).
+- [More structured tutorial for beginers, UCR](http://esd.cs.ucr.edu/labs/tutorial/)
 - [HTML Version of IEEE Libraries](https://www.cs.sfu.ca/~ggbaker/reference/std_logic/).
 - [Official Cite](https://www.doulos.com/knowhow/vhdl_designers_guide/)
 - [VHDL archive from Hamburg University](https://tams-www.informatik.uni-hamburg.de/vhdl/vhdl.html) and it's [VHDL cookbook](https://tams-www.informatik.uni-hamburg.de/vhdl/doc/cookbook/VHDL-Cookbook.pdf).
 - [VHDL syntext](https://www.csee.umbc.edu/portal/help/VHDL/design.html)
 - [Learning FPGA](https://www.fpga4fun.com/HDLtutorials.html) ```very comprehensive```
+- [VLSI design](https://www.tutorialspoint.com/vlsi_design/index.htm)
+
