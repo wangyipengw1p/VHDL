@@ -3,7 +3,7 @@ A collection of useful entities in VHDL.
 
 ```DQPSK``` and ```OFDM``` are copied and  modified from opencores. 
 
-Most of them are spin-offs from my projects, and simulated or implemented on FPGA. Some of them were written when I was a beginer of VHDL and not well designed. Also, I'm still learning digital design, so please don't hesitate to till me the problem in design or your better ideas:) 
+Most of them are spin-offs from my projects, and simulated or implemented on FPGA. Some of them were written when I was a beginer of VHDL and were not well designed. Since I'm still learning digital design, please don't hesitate to tell me the problem in design or your better ideas:) 
 Thanks in advance.
 
 ## Entity lists
