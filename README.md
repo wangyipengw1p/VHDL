@@ -4,7 +4,7 @@ A collection of useful entities in VHDL.
 If you are looking for examples for beginers, please refer to the tutorial linked [here]( https://github.com/wangyipengw1p/VHDL/blob/master/README.md#useful-links-for-learning-vhdl)
 
 
-Most of them are spin-offs from my projects, and simulated or implemented on FPGA. Some of them were written when I was a beginer of VHDL and were not well designed. Since I'm still learning digital design, please don't hesitate to tell me the problem in design or your better ideas:) 
+Most of the entities are spin-offs from my projects, and simulated or implemented on FPGA. Some of them were written when I was a beginer of VHDL and were not well designed. Since I'm still learning digital design, please don't hesitate to tell me the problem in design or your better ideas:) 
 Thanks in advance.
 
 Note that ```DQPSK``` and ```OFDM``` are copied and  modified from opencores. 
