@@ -1,11 +1,13 @@
 # VHDL
 A collection of useful entities in VHDL. 
 
-```DQPSK``` and ```OFDM``` are copied and  modified from opencores. 
+If you are looking for examples for beginers, please refer to the tutorial linked [here]( https://github.com/wangyipengw1p/VHDL/edit/master/README.md#Useful-links-for-learning-VHDL)
+
 
 Most of them are spin-offs from my projects, and simulated or implemented on FPGA. Some of them were written when I was a beginer of VHDL and were not well designed. Since I'm still learning digital design, please don't hesitate to tell me the problem in design or your better ideas:) 
 Thanks in advance.
 
+Note that ```DQPSK``` and ```OFDM``` are copied and  modified from opencores. 
 ## Entity lists
 - #### Binary_to_BCD: From 8 bits binary to 10bits BCD code. For examples and demo of the algorithm, please look at [this web](http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html).
 - #### Binary_to_Gery
