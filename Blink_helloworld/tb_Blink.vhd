@@ -6,10 +6,8 @@ use IEEE.std_logic_signed.ALL;
 
 
 entity tb_Blink is 
-port(
-	
-	);
-end Blink;
+--port();
+end tb_Blink;
 
 architecture Blink is 
 signal clk, rst, LED: std_logic:='1';
