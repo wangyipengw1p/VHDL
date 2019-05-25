@@ -24,7 +24,7 @@ entity rec2pol is
            result   : out unsigned(7 downto 0);
            result_d : out unsigned(7 downto 0);
            result1   : out  unsigned(7 downto 0);
-           result_d1 : out  unsigned(7 downto 0);
+           result_d1 : out  unsigned(7 downto 0)
            );
 end rec2pol;
 
