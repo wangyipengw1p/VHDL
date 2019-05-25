@@ -6,7 +6,7 @@ use ieee.std_logic_signed.all;
 
 entity mod3 is		--pure combnitional
    port ( A          : in  std_logic_vector (7 downto 0);   -- Input A range(
-          result 	   : out std_logic_vector (7 downto 0);   -- output (unsigned binary)
+          result 	   : out std_logic_vector (7 downto 0)  -- output (unsigned binary)
         );
 end mod3;
 
