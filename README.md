@@ -49,7 +49,7 @@ Some useful memo for writing tb.
 - [VLSI design](https://www.tutorialspoint.com/vlsi_design/index.htm)
 
 ## VHDL or Verilog?
-To be a great digital designer, I guess we should handle **both**, as well as system C, [Chisel](https://github.com/freechipsproject/chisel3/wiki) etc.
+To be a great digital designer, I guess we should handle **both**, as well as system C, [Chisel](https://github.com/freechipsproject/chisel3/wiki) etc. But which one to begin with?
 
 "To learn HDL as a IC designer, please first forgrt everything you've learned as a C or MATLAB programmer", Quoting my instructor. I would recommand undergrads major in IC design to learn VHDL first. Because its structed and rigorous style could help you better understand the circuit and get rid of the C-programming style while designing hardware. But for those who just want to, for example,  build a small demo on FPGA and say goodbye to HDL, Verilog is much easier to handle.
 
