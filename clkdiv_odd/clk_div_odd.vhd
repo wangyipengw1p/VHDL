@@ -9,9 +9,10 @@ generic(div:integer:=25);
 port(
 	clk:in std_logic;
 	rst:in std_logic;
-	clko:out std_logic;
+	clko:out std_logic
+);
 end clk_div_odd;
-architecture behaviral of norm_to_grey is 
+architecture behaviral of clk_div_odd is 
 signal counter:unsigned(7 downto 0);
 signal clkp, clkn, clkp_n, clkn_n: std_logic;
 begin
