@@ -32,11 +32,10 @@ Note that ```DQPSK``` and ```OFDM``` are copied and  modified from [opencores](h
 - #### PSK: Digital generated PSK modulated wave. First receieve, check the odd-even check point. Then transimite.
 - #### VGA: hs vs signal genetrator for VGA.
 
-## REF 
+## _REF 
 Some useful book and resources for learning VHDL.
 
-## Testbench
-Some useful memo for writing tb.
+
 
 ## Useful links for learning VHDL
 - [Tutorial Examples for beginers, UMBC](https://www.csee.umbc.edu/portal/help/VHDL/samples/samples.shtml).
