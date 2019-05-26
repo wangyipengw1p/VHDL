@@ -20,7 +20,7 @@ function "&" (L:DATA; R: DATAV) return DATAV;
 --function "&" (L:DATAV; R: DATA) return DATAV;
 end package;
 
-package body LeNet_pkg is
+package body name_pkg is
     function "&" (L:DATAV; R: DATAV) return DATAV is
     variable concat: DATAV(L'length + R'length - 1 downto 0);
     begin
