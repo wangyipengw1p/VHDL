@@ -41,6 +41,7 @@ Some useful book and resources for learning VHDL.
 - [Tutorial Examples for beginers, UMBC](https://www.csee.umbc.edu/portal/help/VHDL/samples/samples.shtml).
 - [More structured tutorial for beginers, UCR](http://esd.cs.ucr.edu/labs/tutorial/)
 - [HTML Version of IEEE Libraries](https://www.cs.sfu.ca/~ggbaker/reference/std_logic/).
+- [HTML Version of IEEE Libraries2](https://www.csee.umbc.edu/portal/help/VHDL/stdpkg.html)
 - [Official Cite](https://www.doulos.com/knowhow/vhdl_designers_guide/)
 - [VHDL archive from Hamburg University](https://tams-www.informatik.uni-hamburg.de/vhdl/vhdl.html) and it's [VHDL cookbook](https://tams-www.informatik.uni-hamburg.de/vhdl/doc/cookbook/VHDL-Cookbook.pdf).
 - [VHDL syntext](https://www.csee.umbc.edu/portal/help/VHDL/design.html)
