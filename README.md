@@ -51,7 +51,7 @@ Some useful book and resources for learning VHDL.
 ## VHDL or Verilog?
 To be a great digital designer, I guess we should handle both, as well as system C etc. But which one to begin with?
 
-"To learn HDL as a IC designer, please first forgrt everything you've learned as a C or MATLAB programmer", Quoting my instructor. I would recommand undergrads major in IC design to learn VHDL first. Because its structed and rigorous style could help you better understand the circuit and get rid of the C-programming style while designing hardware. But for those who just want to, for example,  build a small demo on FPGA and say goodbye to HDL, Verilog is much easier to handle.
+"To learn HDL as a IC designer, please first forgrt everything you've learned as a C or MATLAB programmer", Quoting my instructor. He would recommand undergrads major in IC design to learn VHDL first. Because its structed and rigorous style could help you better understand the circuit and get rid of the C-programming style while designing hardware. But for those who just want to, for example,  build a small demo on FPGA and say goodbye to HDL, Verilog is much easier to handle.
 
 Here are two articles comparing VHDL and Verilog [1-PDF](https://github.com/wangyipengw1p/VHDL/blob/master/_REF/vhdl_verilog_compared.pdf) (official paper) [2-HTML](http://www.angelfire.com/in/rajesh52/verilogvhdl.html)(compared with C) comprehensively.
 
