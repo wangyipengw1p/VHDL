@@ -45,7 +45,7 @@ begin
 	clkn_n <= clkn;
 	clkp_n <= clkp;
 	if counter = div then clkp_n <= not clkp; end if;
-	if counter = (div - 1 / 2) then clkn_n <= not clkn; end if;
+	if counter = (div - 1 )/ 2 then clkn_n <= not clkn; end if;
 end process;
 
 clk_o <= clkp xor clkn;
